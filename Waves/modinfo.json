@@ -1,0 +1,10 @@
+{
+  "id": "waves",
+  "name": "Waves",
+  "version": "1.0.0",
+  "authors": "None on YouTube",
+  "description": "Waves gamemode from Alpha 8",
+  "requirements": [],
+  "requirements_names": [],
+  "checksum_override_version": true
+}
